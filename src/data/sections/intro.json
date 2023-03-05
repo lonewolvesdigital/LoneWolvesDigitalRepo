@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Welcome to Lone Wolves Digital",
+        "content": "The home of all things digital! Whether you need Admin & Customer Support, Business, & Finance, Data & AI services, Engineering & Architecture We offer all of that and 8 other special fields! You my friend have come to the right place as you will soon find that WHAT YOU DEMAND, WE COMMAND!",
+        "image": "/img/slid/thisisengineering.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Founded by a Digital Nomad for Digital Nomads.",
+        "content": "Here at Lone Wolves Digital, we don’t have a big expensive office or equipment. Just a network of hard-working Digital Nomads. This allows us to tap into a wide variety of skills and talent, for a fraction of the price.",
+        "image": "/img/slid/pexels-christina-morillo-1181352-min.jpg"
+    },
+    {
+        "id": 3,
+        "title": "So, why Lone Wolves Digital?",
+        "content": "When you choose Lone Wolves Digital, you not only choose the best quality at the fastest speed, but you are choosing to support small businesses that are the lifeline of our economy. In return, you get premium Digital products and services at the lowest price with no compromise on quality.",
+        "image": "/img/slid/slide-3-min.jpg"
+    }
+]

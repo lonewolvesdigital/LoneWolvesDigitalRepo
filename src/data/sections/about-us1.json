@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "smallTitle": "About Us",
+  "title": "Lone Wolves Digital",
+  "content": "The name Lone Wolves Codes was born out of a simple conversation that has now become Our philosophy. It goes like this. A friend told me about his work as a Freelancer, and how he collaborated with others.  He ends by saying We’re just a bunch of lone wolves trying to catch a buck” and I liked this. I didn’t quite know it yet. But that’s the day Lone Wolves Codes was born. When I worked alone making websites, I considered myself one of these wolves. Hence the name Lone Wolf Codes, Today I am proud to announce that “I” have now become “we” and together “we” are Lone Wolves Digital.  Lone because we work individually, Wolves because there are many of us in different fields, from Codes to Digital because we offer more than just web development but instead a variety of digital products and services ranging across 12 different fields from 1. Admin & Customer Support, 2. Business, &   Finance, 3. Data & AI services, 4. Engineering & Architecture, 5. Graphics Design & Photography, 6. HR & Training, 7. Legal, 8. Lifestyle, 9. Sales & Digital Marketing, 10. Software development & IT, 11. Video, Audio & Animation, 12. Writing & Translation. ",
+  "image": "/img/cut-in-a-moment-_T6udLyHwJw-unsplash-min.jpg",
+  "stauts": [
+    { "id": 1, "number": "1", "letter": "Company", "stautsName": "12 Categories" },
+    { "id": 2, "number": "1", "letter": "Network", "stautsName": "10000+ Freelancers" }
+  ]
+}

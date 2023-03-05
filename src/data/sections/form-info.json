@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "title": "Let's Talk.",
+  "email": "calebmutombo@lonewolvesdigital.com",
+  "phone": "+27 21 709 0248",
+  "location": {
+    "first": "2nd Floor, The Harrington, 50 Harrington St,",
+    "second": "District Six, Cape Town, 7925"
+  }
+}
